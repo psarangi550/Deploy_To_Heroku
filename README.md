@@ -34,3 +34,10 @@
 - we can migrate the postgres SQL Normally by python manage.py makemigrations and migrate 
 - or we can also run heroku run python manage.py makemigrations and migrate command 
 - by remember that it need the psycopg2 for running the postgresql like mysql connector for the mysql db 
+
+ ## Heroku By Pratik:-
+  -----------------------
+  
+   https://rocky-reef-79151.herokuapp.com/ :-Heroku With Static File Using AWS S3 Bucket and GUNICORN
+  
+  [](https://pratikheroku675.herokuapp.com/ :-Heroku By Using waitesss and whiteNoise

@@ -38,6 +38,17 @@
  ## Heroku By Pratik:-
   -----------------------
   
-   https://rocky-reef-79151.herokuapp.com/ :-Heroku With Static File Using AWS S3 Bucket and GUNICORN
+   https://rocky-reef-79151.herokuapp.com/   :- Heroku With Static File Using AWS S3 Bucket and GUNICORN
   
   [](https://pratikheroku675.herokuapp.com/ :-Heroku By Using waitesss and whiteNoise
+ 
+ 
+ # Few Imp Points as time passes by 
+
+```python
+ heroku restart
+```
+
+```python
+$ heroku logs --tail --app your_app_name
+```
